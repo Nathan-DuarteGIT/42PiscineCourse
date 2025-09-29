@@ -23,3 +23,4 @@ A Piscine é um programa de imersão intensiva de três semanas (o "Bootcamp" da
 ## Estrutura do Repositório 🏗️
 
 **git_project_shell00_3 e git_shell01_2:** Domínio de Ferramentas Essenciais: Git, CLI Linux e SSH
+**git_c00 ao git_c07:** Fundamentos e Lógica Avançada em C: Estruturas, Ponteiros e Alocação de Memória
