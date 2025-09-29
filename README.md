@@ -1,4 +1,4 @@
-#42 Piscine Cursus: Fundamentos de Programação em C
+# 42 Piscine Cursus: Fundamentos de Programação em C
 
 ##  O que é a Piscine?
 
